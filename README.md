@@ -11,7 +11,7 @@ High Availability: Deploy resources across multiple Availability Zones (AZs) to 
 
 Fault Tolerance: Implement failover mechanisms to maintain service availability during component failures.
 
-Scalability: Use Auto Scaling to dynamically handle changing workloads.
+Scalability: Use Auto Scaling to handle changing workloads dynamically.
 
 Load Balancing: Distribute incoming traffic evenly across multiple EC2 instances.
 
@@ -111,11 +111,11 @@ Getting Started
 
 Clone the repository:
 
-git clone https://github.com/username/ecommerce-ha-infra.git
+git clone https://github.com/ravi2krishna/ecomm.git
 
 Navigate to the project directory:
 
-cd ecommerce-ha-infra
+cd ecomm
 
 Access the application using the DNS provided by the Elastic Load Balancer.
 
