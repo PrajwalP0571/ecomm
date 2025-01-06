@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/fb6b6ab8-de19-49e5-9ad5-080dc77f9dd1)
+
 Highly Available Infrastructure for E-commerce Project - AWS Load Balancer & Auto Scaling
 
 Project Overview
