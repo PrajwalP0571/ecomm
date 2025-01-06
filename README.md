@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/fb6b6ab8-de19-49e5-9ad5-080dc77f9dd1)
+![Highly Available LMS Architecture Diagram](https://github.com/user-attachments/assets/ad6388bb-3d41-4fc6-9d54-750cb1f811d4)
 
 Highly Available Infrastructure for E-commerce Project - AWS Load Balancer & Auto Scaling
 
