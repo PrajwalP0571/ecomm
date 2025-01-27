@@ -1,4 +1,4 @@
-E-Commerce Application
+# E-Commerce Application
 
 ![Highly Available LMS Architecture Diagram](https://github.com/user-attachments/assets/ad6388bb-3d41-4fc6-9d54-750cb1f811d4)
 
